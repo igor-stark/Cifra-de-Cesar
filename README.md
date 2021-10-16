@@ -8,7 +8,7 @@
  
     2 - O aplicativo encontra-se estático, não afeta no objetivo do projeto, mas acaba deixando o App não tão user-friendly.
     
-App em funcionamento: 
+<b> App em funcionamento: </b>
 
 
 <img src= "https://user-images.githubusercontent.com/89531380/137602817-e96a9604-facd-4d4e-8555-14cd374880e3.gif" width="650" height="500"/>
